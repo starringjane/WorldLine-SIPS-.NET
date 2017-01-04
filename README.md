@@ -1,1 +1,1 @@
-# WorldLine-SIPS-.NET
+# WorldLineSIPSClient.NET
